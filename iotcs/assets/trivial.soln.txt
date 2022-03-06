@@ -1,0 +1,11 @@
+U|AB | 
+-+C+-+-
+ BYC | 
+-+F+-+-
+ CPF | 
+-+H+-+-
+ FR|S| 
+
+solution:
+→↓↓↓
+U:AYPR

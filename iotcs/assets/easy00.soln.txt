@@ -1,0 +1,11 @@
+A| CPB 
+-+-+-+-
+ |S| BU
+F+-+-+-
+Y| BO|R
+H+H+-+-
+ | | | 
+
+solution:
+↑←←←↓↓↓→→↑→
+U:PAYOR

@@ -1,0 +1,11 @@
+ | | | 
+-+F+F+F
+ BR| |O
+-+C+H+H
+PBY| BU
+-+C+C+-
+S| |A| 
+
+solution:
+↓←↑↑↑←←↓↓↑↑→→↓↓←→↑→←←→→
+U:APYOR

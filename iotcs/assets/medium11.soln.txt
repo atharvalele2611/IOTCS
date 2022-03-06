@@ -1,0 +1,11 @@
+ | H | 
+-+-+-+-
+R|PH |O
+F+F+F+C
+ |AC | 
+-+-+-+-
+ |UCY| 
+
+solution:
+↑↓→↑↑→←←←
+U:AYOPR
